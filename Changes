@@ -1,0 +1,9 @@
+Revision history for Perl extension XML::PSAX.
+#$Id: Changes 232 2007-11-28 11:57:38Z zag $
+0.03
+    - add tests
+    - documenting
+    - get attrs by name ( by_name )
+0.02 
+    - add mk_characters and mk_cdata
+    - add on_cdata
