@@ -1,5 +1,8 @@
 Revision history for Perl extension XML::PSAX.
-#$Id: Changes 232 2007-11-28 11:57:38Z zag $
+#$Id: Changes 316 2008-09-14 14:25:23Z zag $
+
+0.04
+    - add SAX1 to ExtOn converter 
 0.03
     - add tests
     - documenting

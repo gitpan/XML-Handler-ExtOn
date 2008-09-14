@@ -5,6 +5,7 @@ lib/XML/Handler/ExtOn/Attributes.pm
 lib/XML/Handler/ExtOn/Context.pm
 lib/XML/Handler/ExtOn/Element.pm
 lib/XML/Handler/ExtOn/IncXML.pm
+lib/XML/Handler/ExtOn/SAX12ExtOn.pm
 lib/XML/Handler/ExtOn/TieAttrs.pm
 lib/XML/Handler/ExtOn/TieAttrsName.pm
 Makefile.PL
