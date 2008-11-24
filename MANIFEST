@@ -18,4 +18,5 @@ t/010_Element.t
 t/050.t
 t/060_ExtOn_skip_root.t
 t/070_characters_cdata.t
+t/080_create_pipe.t
 META.yml
